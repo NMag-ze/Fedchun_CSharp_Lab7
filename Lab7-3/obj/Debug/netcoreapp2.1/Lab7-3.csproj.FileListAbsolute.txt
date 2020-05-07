@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\bin\Debug\netcoreapp2.1\Lab7-3.deps.json
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\bin\Debug\netcoreapp2.1\Lab7-3.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\bin\Debug\netcoreapp2.1\Lab7-3.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\bin\Debug\netcoreapp2.1\Lab7-3.dll
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\bin\Debug\netcoreapp2.1\Lab7-3.pdb
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.dll
+C:\Users\N\Desktop\Технологии программирования\Lab7-3\obj\Debug\netcoreapp2.1\Lab7-3.pdb
